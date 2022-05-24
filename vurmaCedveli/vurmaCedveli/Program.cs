@@ -37,6 +37,8 @@ namespace TestCsharp
             //    }
             //    Console.WriteLine();
             //}
+
+            Console.WriteLine("Hello");
             #endregion
 
 
